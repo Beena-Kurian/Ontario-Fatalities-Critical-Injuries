@@ -28,17 +28,13 @@ Mann-Kendall Trend Test indicated no significant trend in fatalities over time, 
 
 Kruskal-Wallis test found statistically significant differences in critical injuries across sectors.
 
-Mann-Kendall Trend Test showed an increasing trend in critical injuries (p < 0.01), emphasizing the urgent need for enhanced workplace safety measures.
-
-Spearman’s correlation analysis revealed a strong relationship between critical injuries in different sectors, suggesting shared risk factors.
+Mann-Kendall Trend Test showed an increasing trend in critical injuries, emphasizing the urgent need for enhanced workplace safety measures.
 
 ##### Technologies Used
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost)
-
+* Python
+* Visualisations (Pandas, Matplotlib, Seaborn)
 * Statistical Analysis (Scipy, pymannkendall)
-
-* Data Preprocessing & Cleaning
 
 ### How to Use
 
