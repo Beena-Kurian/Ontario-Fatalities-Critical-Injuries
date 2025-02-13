@@ -12,8 +12,9 @@ Critical Injuries Dataset: Includes workplace injuries reported to the Ministry 
 
 #### Key Objectives
 
-✅ Perform exploratory data analysis (EDA) to understand trends and distributions.
-✅ Conduct statistical tests (ANOVA, Kruskal-Wallis, and Mann-Kendall) to find significant differences and trends.
+- Perform exploratory data analysis (EDA) to understand trends and distributions.
+
+- Conduct statistical tests (ANOVA, Kruskal-Wallis, and Mann-Kendall) to find significant differences and trends.
 
 #### Statistical Analysis & Findings
 
