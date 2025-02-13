@@ -1,4 +1,4 @@
-## Ontario Workplace Fatalities & Critical Injuries Analysis
+## Data Analysis - Occupational Health and Safety worker fatality and critical injury in Ontario
 
 #### Overview
 
@@ -53,6 +53,8 @@ Spearman’s correlation analysis revealed a strong relationship between critica
 #### Run the analysis scripts in Jupyter Notebook:
 
 `jupyter notebook OHSW_fatality_and_critical_injury.ipynb`
+
+or Run code and markdown blocks using button
 
 ### Conclusions & Recommendations
 
