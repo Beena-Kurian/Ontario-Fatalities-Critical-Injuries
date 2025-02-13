@@ -44,15 +44,15 @@ Spearman’s correlation analysis revealed a strong relationship between critica
 
 #### Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+`git clone https://github.com/your-username/your-repository-name.git`
 
 #### Install required dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 #### Run the analysis scripts in Jupyter Notebook:
 
-jupyter notebook OHSW_fatality_and_critical_injury.ipynb
+`jupyter notebook OHSW_fatality_and_critical_injury.ipynb`
 
 ### Conclusions & Recommendations
 
