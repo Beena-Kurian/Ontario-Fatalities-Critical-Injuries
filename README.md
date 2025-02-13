@@ -44,7 +44,7 @@ Spearman’s correlation analysis revealed a strong relationship between critica
 
 #### Clone the repository:
 
-`git clone https://github.com/your-username/your-repository-name.git`
+`git clone https://github.com/Beena-Kurian/Ontario-Fatalities-Critical-Injuries.git`
 
 #### Install required dependencies:
 
