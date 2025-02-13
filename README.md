@@ -1,4 +1,4 @@
-### Ontario Workplace Fatalities & Critical Injuries Analysis
+## Ontario Workplace Fatalities & Critical Injuries Analysis
 
 #### Overview
 
